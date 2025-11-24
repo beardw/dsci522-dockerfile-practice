@@ -1,0 +1,8 @@
+name: 522-practice2
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - pandas=2.3.3
+  - numpy=2.3.5
+  - conda-lock=3.0.4
